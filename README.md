@@ -1,4 +1,4 @@
 # apnaschool-demo
 This is my first Git Repository.
 <br>
-Author - Mohit Rai
+Author - Mohit (Apna School)
